@@ -1,0 +1,16 @@
+footer{background-color: cadetblue;
+text-align: center;}
+section{
+    background-color: bisque;
+    background-image: url(images/dogsimage3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-blend-mode: darken;
+}
+aside{
+    background-color: aqua;
+}
+body{
+    background-color: aliceblue;
+}
